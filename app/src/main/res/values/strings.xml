@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crypto Prices</string>
+    <string name="coinNameText">Name:</string>
+    <string name="coinPricePlaceholderText">Price</string>
+    <string name="changePercent24HrText">Price change percent 24h:</string>
+    <string name="changepercent24hrPlaceholderText">ChangePercent24Hr</string>
+    <string name="coin_price_usd">Price (in USD): %1$s.</string>
+    <string name="rankPlaceholderTxt">Rank:</string>
+    <string name="symbolPlaceholderTxt">Symbol:</string>
+</resources>
